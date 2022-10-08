@@ -1,4 +1,4 @@
-# get_random_people &middot; ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg) [![Generic badge](https://img.shields.io/badge/version-1.0.4-<COLOR>.svg)](https://shields.io/)
+# get_random_people &middot; ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg) [![Generic badge](https://img.shields.io/badge/version-1.0.5-<COLOR>.svg)](https://shields.io/)
 A javascript package that generates huge dataset of fake, but real looking data of a person. Useful to create graphs, tables etc.
 # Installation
 
