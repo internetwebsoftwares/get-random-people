@@ -4,13 +4,36 @@
   },
   "name": "get-random-people",
   "description": "A javascript package that generates huge dataset of fake, but real looking data of a person. Useful to create graphs, tables, etc.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "index.js",
   "devDependencies": {},
+  "repository": {
+    "url": "https://github.com/internetwebsoftwares/get-random-people"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["random", "generate fake data", "fake data", "fake users", "fake information", "get users", "random users"],
+  "keywords": [
+    "fake",
+    "faker",
+    "fake data", 
+    "fake users", 
+    "fake information generator", 
+    "generate fake data",
+    "random", 
+    "random data", 
+    "random users", 
+    "random information", 
+    "random people generator",
+    "random data generator", 
+    "random people", 
+    "dummy", 
+    "dummy data", 
+    "dummy information",
+    "dummy personal information",
+    "get users" ,
+    "generate users"
+  ],
   "author": "Ata Shaikh",
-  "license": "ISC"
+  "license": "MIT"
 }

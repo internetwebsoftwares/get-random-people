@@ -47,7 +47,7 @@ console.log(user.nationality) // eg: England
  lastname,
  dob,
  email,
- phone_number,
+ phoneNumber,
  address,
  gender,
  religion,
