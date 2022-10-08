@@ -4,7 +4,7 @@
   },
   "name": "get-random-people",
   "description": "A javascript package that generates huge dataset of fake, but real looking data of a person. Useful to create graphs, tables, etc.",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "index.js",
   "devDependencies": {},
   "repository": {
