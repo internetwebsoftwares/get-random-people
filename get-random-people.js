@@ -76,3 +76,7 @@ class GetRandomPeople{
     }
 
 }
+
+module.exports = GetRandomPeople
+
+console.log(new GetRandomPeople().getRandomPerson())
