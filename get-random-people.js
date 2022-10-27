@@ -7,7 +7,7 @@ const {
 const uuid = require("uuid");
 const randInt = require("./randInt");
 
-class GetRandomPeople{
+class RandomPeople{
     getHighestEducation(){
         return qualifications[randInt(0, qualifications.length - 1)]
     }
@@ -77,4 +77,4 @@ class GetRandomPeople{
 
 }
 
-module.exports = GetRandomPeople
+module.exports = RandomPeople

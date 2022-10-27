@@ -1,4 +1,4 @@
-arabicMale = [
+const arabicMale = [
     "Mohamed",
     "Mahmoud",
     "Mustafa",
@@ -31,7 +31,7 @@ arabicMale = [
     "Fahd"
 ]
 
-arabicFemale = [
+const arabicFemale = [
     "Shaimaa",
     "Fatma",
     "Maha",
@@ -62,7 +62,7 @@ arabicFemale = [
     "Salma"
 ]
 
-arabicSurnames = [
+const arabicSurnames = [
     "Ansari",
     "Khan",
     "Mirza",
@@ -72,7 +72,7 @@ arabicSurnames = [
     "Sheikh",
 ]
 
-westernSurnames = [
+const westernSurnames = [
     "Smith",
     "Jones",
     "Taylor",
@@ -95,7 +95,7 @@ westernSurnames = [
     "Clark"
 ]
 
-westernMale = [
+const westernMale = [
     "Peter",
     "Pierre",
     "George",
@@ -139,7 +139,7 @@ westernMale = [
     "Liam"
 ]
 
-westernFemale = [
+const westernFemale = [
     "Mary",
     "Patricia",
     "Linda",
@@ -163,7 +163,7 @@ westernFemale = [
     "Irene",
 ]
 
-names = {
+const names = {
     arabicMale, arabicFemale, arabicSurnames, westernMale, westernFemale, westernSurnames
 }
 

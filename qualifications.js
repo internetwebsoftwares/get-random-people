@@ -1,4 +1,4 @@
-qualifications = [
+const qualifications = [
     "High school",
     "Diploma in Fire & safety",
     "Diploma in Health & safety",
@@ -45,7 +45,7 @@ qualifications = [
     "Master of Enginnering (Chemical engineering)",
     "Master of Enginnering (Nuclear engineering)",
     "NEEBOSH",
-    "Phd",
+    "Phd"
 ]
 
 module.exports = qualifications;
